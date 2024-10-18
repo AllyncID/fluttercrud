@@ -2,9 +2,9 @@
 
 ### Gunain source codenya ya teman teman....
 
-### Free PHP Code
+Free PHP Code
 
-### pastikan kamu sudah membuat folder pada folder htdocs yang terdapat di `c:xampp/htdocs/<namafolder>` kemudian buat file phpnya di dalam folder tersebut.
+pastikan kamu sudah membuat folder pada folder htdocs yang terdapat di `c:xampp/htdocs/<namafolder>` kemudian buat file phpnya di dalam folder tersebut.
 
 # Connection.php
 ```
